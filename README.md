@@ -1,14 +1,18 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="logo-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="logo.png">
-    <img alt="Dacryon Press" src="logo.png" width="120">
+    <source media="(prefers-color-scheme: dark)" srcset="mark-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="mark.svg">
+    <img alt="Dacryon Press" src="mark.svg" width="64">
   </picture>
 </p>
 
 # The Letter of Peter to Clement
 
 ጦማር ዘጴጥሮስ, from the Sinodos of the apostles, as the Ethiopian Orthodox Tewahedo Church has received it. Translated from the Ge'ez.
+
+<p align="center">
+  <a href="letter_of_peter_to_clement.pdf"><img alt="The front cover and the first page of the letter" src="preview.png" width="820"></a>
+</p>
 
 **[Read or download the PDF](letter_of_peter_to_clement.pdf)** (20 pages)
 
